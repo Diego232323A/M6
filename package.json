@@ -1,0 +1,13 @@
+{
+  "name": "check_connection_mysql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "checkConnection.js",
+  "scripts": {
+    "start": "node checkConnection.js"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "mysql2": "^3.10.3"
+  }
+}
